@@ -1,0 +1,3 @@
+pyyaml
+pypandoc
+python-frontmatter
