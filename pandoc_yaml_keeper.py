@@ -16,8 +16,8 @@ from docopt import docopt
 """
     pyconverter.py uses Pandoc internally to convert a markdown file to an html
     file. The only reason this was necessary was to find a way to keep the damn
-    YAML front matter in the converted HTML file. You may pass arbitrary arguments
-    to pandoc via optional command line args.
+    YAML front matter in the converted HTML file. You may pass arbitrary
+    arguments to pandoc via optional command line args.
 """
 
 import yaml as ym
